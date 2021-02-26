@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "tests": "karma start karma.config.js"
+  },
+  "devDependencies": {
+    "babel-loader": "^5.0.0",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-webpack": "^1.6.0",
+    "webpack": "^1.8.4"
+  }
+}
